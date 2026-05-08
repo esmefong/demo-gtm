@@ -2,7 +2,7 @@
 
 *A simplified, illustrative version of an Atrium Academy brand repository.*
 
-This repo demonstrates the structure we set up for the brands we partner with. **Uniswap is used here as a recognizable demonstration brand only** — this is an Atrium-built sample to show prospects what a brand foundation looks like when applied to a domain they already know. Nothing in this repo is official Uniswap material.
+This repo demonstrates the structure we set up for the brands we partner with. **Uniswap is used here as a recognizable demonstration brand only.** This is an Atrium-built sample to show prospects what a brand foundation looks like when applied to a domain they already know. Nothing in this repo is official Uniswap material.
 
 Real client repos contain proprietary assets, deeper guardrails, and channel-specific automations. What you see here is a deliberately stripped-down sample so you can see the shape without us giving away the playbook.
 
