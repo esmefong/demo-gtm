@@ -4,7 +4,7 @@
 
 This repo demonstrates the structure we set up for the brands we partner with. **Uniswap is used here as a recognizable demonstration brand only.** This is an Atrium-built sample to show prospects what a brand foundation looks like when applied to a domain they already know. Nothing in this repo is official Uniswap material.
 
-Real client repos contain proprietary assets, deeper guardrails, and channel-specific automations. What you see here is a deliberately stripped-down sample so you can see the shape without us giving away the playbook.
+Real client repos contain proprietary assets, deeper guardrails, and channel-specific automations. What you see here is a deliberately stripped-down sample so you can see the shape without giving away the playbook.
 
 ## What's inside
 
@@ -26,7 +26,7 @@ Real client repos contain proprietary assets, deeper guardrails, and channel-spe
 
 - The full reference library. Real ones are 5–10× the size — full ICP research, dev-community interviews, etc.
 - Proprietary detection heuristics in the live AI-writing-detector and the weekly recalibration that keeps it sharp.
-- Channel-specific automations: X scheduling, governance-forum cross-posting, Mirror, Farcaster.
+- Channel-specific automations: X scheduling, LinkedIn personal account ghost-writing, and brand account posting.
 - Multi-product orchestration when a brand has both a protocol surface and a wallet/app surface to maintain.
 - Performance loops that retrain the prompts based on what's actually winning in market.
 
